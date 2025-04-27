@@ -1,0 +1,11 @@
+question,similarity,knowledgescoremodel,pdf
+What is the main research problem or question addressed in the paper?,[[0.81565749]],89.5,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+What methodology or approach has been used to solve the problem or answer the question?,[[0.81774169]],78.5,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+What are the key findings or results of the study?,[[0.73608786]],85.6,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+What are the limitations of the research mentioned in the paper?,[[0.84009719]],75.0,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+How does this research build upon or differ from previous studies in the field?,[[0.68687696]],78.5,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+"What data or evidence has been used, and how was it collected or analyzed?",[[0.76304777]],85.6,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+What are the implications or practical applications of the findings?,[[0.82507387]],78.5,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+"What assumptions are made in the study, and are they justified?",[[0.89781419]],85.6,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+Are there any unanswered questions or suggested areas for future research?,[[0.84574432]],85.7,llama3-1,The Role of Big Data in Smart Healthcare.pdf
+"How does the research contribute to its field, and why is it important?",[[0.87960857]],85.2,llama3-1,The Role of Big Data in Smart Healthcare.pdf

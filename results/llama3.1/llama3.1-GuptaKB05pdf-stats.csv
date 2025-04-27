@@ -1,0 +1,11 @@
+question,similarity,knowledgescoremodel,pdf
+What is the main research problem or question addressed in the paper?,[[0.87187136]],85.0,llama3.1,GuptaKB05.pdf
+What methodology or approach has been used to solve the problem or answer the question?,[[0.83808442]],90.5,llama3.1,GuptaKB05.pdf
+What are the key findings or results of the study?,[[0.78441715]],75.0,llama3.1,GuptaKB05.pdf
+What are the limitations of the research mentioned in the paper?,[[0.76966849]],85.0,llama3.1,GuptaKB05.pdf
+How does this research build upon or differ from previous studies in the field?,[[0.62685145]],78.5,llama3.1,GuptaKB05.pdf
+"What data or evidence has been used, and how was it collected or analyzed?",[[0.56501951]],78.5,llama3.1,GuptaKB05.pdf
+What are the implications or practical applications of the findings?,[[0.83673463]],76.5,llama3.1,GuptaKB05.pdf
+"What assumptions are made in the study, and are they justified?",[[0.70373746]],75.0,llama3.1,GuptaKB05.pdf
+Are there any unanswered questions or suggested areas for future research?,[[0.76710379]],86.2,llama3.1,GuptaKB05.pdf
+"How does the research contribute to its field, and why is it important?",[[0.88905351]],89.5,llama3.1,GuptaKB05.pdf
