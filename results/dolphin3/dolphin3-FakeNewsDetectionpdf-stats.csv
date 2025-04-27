@@ -1,0 +1,11 @@
+question,similarity,knowledgescoremodel,pdf
+What is the main research problem or question addressed in the paper?,[[0.70980606]],70.5,dolphin3,Fake_News_Detection.pdf
+What methodology or approach has been used to solve the problem or answer the question?,[[0.59503811]],85.3,dolphin3,Fake_News_Detection.pdf
+What are the key findings or results of the study?,[[0.61469294]],45.7,dolphin3,Fake_News_Detection.pdf
+What are the limitations of the research mentioned in the paper?,[[0.70862927]],65.3,dolphin3,Fake_News_Detection.pdf
+How does this research build upon or differ from previous studies in the field?,[[0.65108953]],75.5,dolphin3,Fake_News_Detection.pdf
+"What data or evidence has been used, and how was it collected or analyzed?",[[0.31655871]],75.3,dolphin3,Fake_News_Detection.pdf
+What are the implications or practical applications of the findings?,[[0.74314807]],78.6,dolphin3,Fake_News_Detection.pdf
+"What assumptions are made in the study, and are they justified?",[[0.60817166]],75.6,dolphin3,Fake_News_Detection.pdf
+Are there any unanswered questions or suggested areas for future research?,[[0.58194673]],75.0,dolphin3,Fake_News_Detection.pdf
+"How does the research contribute to its field, and why is it important?",[[0.68929]],76.5,dolphin3,Fake_News_Detection.pdf
