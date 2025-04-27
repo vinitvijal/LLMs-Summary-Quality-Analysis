@@ -1,0 +1,11 @@
+question,similarity,knowledgescoremodel,pdf
+What is the main research problem or question addressed in the paper?,[[0.77227699]],75.0,llama3-2,TheCriticalRoleofDataScience.pdf
+What methodology or approach has been used to solve the problem or answer the question?,[[0.65891878]],85.6,llama3-2,TheCriticalRoleofDataScience.pdf
+What are the key findings or results of the study?,[[0.65488773]],75.0,llama3-2,TheCriticalRoleofDataScience.pdf
+What are the limitations of the research mentioned in the paper?,[[0.87263552]],85.7,llama3-2,TheCriticalRoleofDataScience.pdf
+How does this research build upon or differ from previous studies in the field?,[[0.73393108]],87.6,llama3-2,TheCriticalRoleofDataScience.pdf
+"What data or evidence has been used, and how was it collected or analyzed?",[[0.66093584]],85.7,llama3-2,TheCriticalRoleofDataScience.pdf
+What are the implications or practical applications of the findings?,[[0.76474817]],76.5,llama3-2,TheCriticalRoleofDataScience.pdf
+"What assumptions are made in the study, and are they justified?",[[0.81247227]],70.5,llama3-2,TheCriticalRoleofDataScience.pdf
+Are there any unanswered questions or suggested areas for future research?,[[0.83773907]],86.2,llama3-2,TheCriticalRoleofDataScience.pdf
+"How does the research contribute to its field, and why is it important?",[[0.76495253]],85.6,llama3-2,TheCriticalRoleofDataScience.pdf

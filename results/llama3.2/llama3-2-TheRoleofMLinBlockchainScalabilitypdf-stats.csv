@@ -1,0 +1,11 @@
+question,similarity,knowledgescoremodel,pdf
+What is the main research problem or question addressed in the paper?,[[0.92801513]],85.7,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+What methodology or approach has been used to solve the problem or answer the question?,[[0.8324594]],85.0,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+What are the key findings or results of the study?,[[0.84899295]],70.0,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+What are the limitations of the research mentioned in the paper?,[[0.81433167]],76.5,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+How does this research build upon or differ from previous studies in the field?,[[0.87913764]],85.7,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+"What data or evidence has been used, and how was it collected or analyzed?",[[0.70642172]],85.7,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+What are the implications or practical applications of the findings?,[[0.87035962]],85.6,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+"What assumptions are made in the study, and are they justified?",[[0.88966007]],76.5,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+Are there any unanswered questions or suggested areas for future research?,[[0.85152771]],85.7,llama3-2,TheRoleofMLinBlockchainScalability.pdf
+"How does the research contribute to its field, and why is it important?",[[0.82554513]],87.6,llama3-2,TheRoleofMLinBlockchainScalability.pdf
