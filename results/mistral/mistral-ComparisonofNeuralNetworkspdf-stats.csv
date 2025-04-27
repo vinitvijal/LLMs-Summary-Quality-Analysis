@@ -1,0 +1,11 @@
+question,similarity,knowledgescoremodel,pdf
+What is the main research problem or question addressed in the paper?,[[0.75581525]],75.0,mistral,ComparisonofNeuralNetworks.pdf
+What methodology or approach has been used to solve the problem or answer the question?,[[0.74517495]],85.0,mistral,ComparisonofNeuralNetworks.pdf
+What are the key findings or results of the study?,[[0.85620742]],88.1,mistral,ComparisonofNeuralNetworks.pdf
+What are the limitations of the research mentioned in the paper?,[[0.76999282]],72.5,mistral,ComparisonofNeuralNetworks.pdf
+How does this research build upon or differ from previous studies in the field?,[[0.70659027]],85.7,mistral,ComparisonofNeuralNetworks.pdf
+"What data or evidence has been used, and how was it collected or analyzed?",[[0.87104664]],87.6,mistral,ComparisonofNeuralNetworks.pdf
+What are the implications or practical applications of the findings?,[[0.7713679]],87.5,mistral,ComparisonofNeuralNetworks.pdf
+"What assumptions are made in the study, and are they justified?",[[0.83575174]],85.6,mistral,ComparisonofNeuralNetworks.pdf
+Are there any unanswered questions or suggested areas for future research?,[[0.81764928]],86.9,mistral,ComparisonofNeuralNetworks.pdf
+"How does the research contribute to its field, and why is it important?",[[0.86209511]],85.6,mistral,ComparisonofNeuralNetworks.pdf

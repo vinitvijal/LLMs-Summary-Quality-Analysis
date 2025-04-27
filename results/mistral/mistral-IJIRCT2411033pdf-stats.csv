@@ -1,0 +1,11 @@
+question,similarity,knowledgescoremodel,pdf
+What is the main research problem or question addressed in the paper?,[[0.78924818]],75.6,mistral,IJIRCT2411033.pdf
+What methodology or approach has been used to solve the problem or answer the question?,[[0.79893801]],85.0,mistral,IJIRCT2411033.pdf
+What are the key findings or results of the study?,[[0.78050621]],78.5,mistral,IJIRCT2411033.pdf
+What are the limitations of the research mentioned in the paper?,[[0.82824887]],75.3,mistral,IJIRCT2411033.pdf
+How does this research build upon or differ from previous studies in the field?,[[0.88137853]],85.7,mistral,IJIRCT2411033.pdf
+"What data or evidence has been used, and how was it collected or analyzed?",[[0.77878401]],86.5,mistral,IJIRCT2411033.pdf
+What are the implications or practical applications of the findings?,[[0.80037643]],88.5,mistral,IJIRCT2411033.pdf
+"What assumptions are made in the study, and are they justified?",[[0.85505193]],85.7,mistral,IJIRCT2411033.pdf
+Are there any unanswered questions or suggested areas for future research?,[[0.83113227]],87.5,mistral,IJIRCT2411033.pdf
+"How does the research contribute to its field, and why is it important?",[[0.87596005]],88.6,mistral,IJIRCT2411033.pdf
